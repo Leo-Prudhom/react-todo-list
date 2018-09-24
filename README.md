@@ -1,4 +1,4 @@
-Here is a todo list made with React.js, this app allows you to create/delete tasks.
+Here is a todo list made with React.js, this app allows you to create/delete tasks. Check it on https://codesandbox.io/s/kxz2v8znrr
 
 react-todo-list/
   README.md
